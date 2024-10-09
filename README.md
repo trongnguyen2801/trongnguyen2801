@@ -16,13 +16,11 @@
     📫 Gmail: trongnpit@gmail.com
     📫 Linkedin: linkedin.com/in/trọng-nguyễn-7a052a270
   </pre>
-    <br>
   <div align="center">
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
 </div>
-
   <div align="center" width="75%">
     <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="middle" ">
   </div>
