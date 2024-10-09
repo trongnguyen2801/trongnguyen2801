@@ -5,19 +5,16 @@
 <div>
 <h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </h2>
   <div align="center">
+<pre>
     💼 Experience • Game dev • 1y6m Kong Software, 6m Freelancer
     💻 Programming languages • C#, Typescript, Javascript
     🎮 Music • Games • Anime • Code • Sport
     🐾 Muffin 🐰 • Pudding & Jelly & Tea 🐤🐥
-    📫 How to reach me **trongnpit@gmail.com**
-    [![](https://img.shields.io/badge/linkedin-0a66c2)](linkedin.com/in/trọng-nguyễn-7a052a270)
-</div>
-
+    📫 How to reach me ** trongnpit@gmail.com **
+</pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
-    
-
 </div>
 
   <div align="center">
