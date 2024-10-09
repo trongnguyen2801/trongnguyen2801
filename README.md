@@ -26,12 +26,11 @@
       </div>
     <div style="width: 25%; background-color: lightgreen; padding: 20px;">
   </div>
-
+<!--
   <div style="display: flex; width: 100%;">
     <div style="width: 75%; background-color: lightblue; padding: 20px; align="center"">
       <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" />
     </div>
     <div style="width: 25%; background-color: lightgreen; padding: 20px;">
-      Div 25%
   </div>
-
+-->
