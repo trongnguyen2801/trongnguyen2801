@@ -19,7 +19,6 @@
     </pre>
   <div style="display: flex; width: 100%;">
     <div style="width: 75%; background-color: lightblue; padding: 20px; align="center"">
-      <br>
       <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
       <br><br>
       </div>
