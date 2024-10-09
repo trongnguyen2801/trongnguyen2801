@@ -11,6 +11,7 @@
     🎮 Music • Games • Anime • Code • Sport
     🐾 Muffin 🐰 • Pudding & Jelly & Tea 🐤🐥
     📫 How to reach me **trongnpit@gmail.com**
+    [![](https://img.shields.io/badge/linkedin-0a66c2)](linkedin.com/in/trọng-nguyễn-7a052a270)
     </pre>
 </div>
 
@@ -18,7 +19,7 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
     
-[![](https://img.shields.io/badge/linkedin-0a66c2)](linkedin.com/in/trọng-nguyễn-7a052a270)
+
 </div>
 
   <div align="center">
