@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<img src= "https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&duration=3000&pause=300&center=true&multiline=true&width=700&height=100&lines=Hello+Hello;I'm+a+game+developer+with+Unity" />
+<img src= "https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&size=15&duration=2000&pause=200&center=true&multiline=true&width=500&lines=Hello+Hello;I'm+a+game+developer+with+Unity" />
 <div>
 <h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </h2>
   <div align="center">
