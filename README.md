@@ -10,7 +10,7 @@
     🎮 Music • Games • Anime • Code • Sport
     🐾 Muffin 🐰 • Pudding & Jelly & Tea 🐤🐥
 </pre>
-  <div>
+  <div align="center">
     <h2 align="center"> ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ </h2>
     📫 Gmail: ** trongnpit@gmail.com **
     <br>
