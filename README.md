@@ -19,13 +19,10 @@
     📫 Linkedin: linkedin.com/in/trọng-nguyễn-7a052a270
 </pre>
   </div>
-  <div style="display: flex; width: 100%;">
-    <div style="width: 75%; background-color: lightblue; padding: 20px; align="center"">
-      <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-      <br><br>
-      </div>
-    <div style="width: 25%; background-color: lightgreen; padding: 20px;">
-  </div>
+
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" weight = "500" height="40" />
+<br><br>
+
 <!--
   <div style="display: flex; width: 100%;">
     <div style="width: 75%; background-color: lightblue; padding: 20px; align="center"">
