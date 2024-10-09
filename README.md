@@ -4,26 +4,27 @@
 <div>
   
 <h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </h2>
-  <div align="center">
-<pre>
-    💼 Experience • Game dev • 1y6m Kong Software, 6m Freelancer
-    💻 Programming languages • C#, Typescript, Javascript
-    🎮 Music • Games • Anime • Code • Sport
-    🐾 Muffin 🐰 • Pudding & Jelly & Tea 🐤🐥
-</pre>
-  <div align="center">
-    <h2 align="center"> ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ </h2>
-    <pre>
+<div align="center">
+  <pre>
+      💼 Experience • Game dev • 1y6m Kong Software, 6m Freelancer
+      💻 Programming languages • C#, Typescript, Javascript
+      🎮 Music • Games • Anime • Code • Sport
+      🐾 Muffin 🐰 • Pudding & Jelly & Tea 🐤🐥
+  </pre>
+    </div>
+<div align="center">
+  <h2 align="center"> ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ </h2>
+  <pre>
     📫 Gmail: trongnpit@gmail.com
     📫 Linkedin: linkedin.com/in/trọng-nguyễn-7a052a270
-    </pre>
+</pre>
+  </div>
   <div style="display: flex; width: 100%;">
     <div style="width: 75%; background-color: lightblue; padding: 20px; align="center"">
       <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
       <br><br>
       </div>
     <div style="width: 25%; background-color: lightgreen; padding: 20px;">
-      Div 25%
   </div>
 
   <div style="display: flex; width: 100%;">
