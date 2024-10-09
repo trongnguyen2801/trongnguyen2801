@@ -12,10 +12,11 @@
 </pre>
   <div align="center">
     <h2 align="center"> ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ </h2>
-    📫 Gmail: ** trongnpit@gmail.com **
-    <br>
+    <pre>
+    📫 Gmail: trongnpit@gmail.com
     📫 Linkedin: linkedin.com/in/trọng-nguyễn-7a052a270
-    
+  </pre>
+    <br>
   <div align="center">
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
