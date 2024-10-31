@@ -21,7 +21,7 @@
 </pre>
   </div>
 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"  />
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" weight = "130" height="68" />
 <br><br>
 
 <!--
