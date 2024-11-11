@@ -20,8 +20,6 @@
     📫 Linkedin: linkedin.com/in/trọng-nguyễn-7a052a270
 </pre>
   </div>
-
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" />
 <br><br>
 
 <!--
